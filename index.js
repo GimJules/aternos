@@ -29,7 +29,7 @@ bot.loadPlugin(cmd)
 
 bot.on('login',function(){
 	console.log("Logged In")
-	bot.chat("hello");
+	bot.chat("24/7 and you're welcome");
 });
 
 bot.on('time', function(time) {
